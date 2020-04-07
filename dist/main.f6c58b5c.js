@@ -181,4 +181,4 @@ $(document).on('keypress', function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://github.com/bbuuer/nav-1/dist/main.f6c58b5c.js.map
+//# sourceMappingURL=main.f6c58b5c.js.map
